@@ -1,10 +1,6 @@
 const axios = require('axios');
 
 // Replace with your Adafruit IO credentials and feed name
-// const ADAFRUIT_IO_USERNAME = 'Thienhcmut3255';
-// const ADAFRUIT_IO_KEY = 'aio_KGUb52xbzzTuyd97JYBcJh9htvaW';
-// const FEED_NAME = 'bbc-led';
-
 // Construct the base URL
 const BASE_URL = `https://io.adafruit.com/api/v2/${ADAFRUIT_IO_USERNAME}`;
 
